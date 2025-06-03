@@ -1,4 +1,4 @@
-# 🌎 API Geografica
+# 🌎 API Geográfica
 
 Este proyecto es una aplicación **Full Stack** desarrollada con **FastAPI**, **Redis**, **Docker**, **React** y **Node.js**. 
 Se trata de un sistema informativo sobre ubicaciones geograficas de lugares de interés en la ciudad de Concepción del Uruguay - Entre Ríos. 
