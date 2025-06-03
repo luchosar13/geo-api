@@ -15,11 +15,15 @@ El único requisito para este proyecto es tener Docker Engine y Docker Compose e
 ### Código
 
 - Para levantar el proyecto:
+  
   `sudo docker compose up --build`
 
 ### Visualización
 
 1. `localhost:8000/docs`
+   
    En esta ubicación vamos a encontrar la documentación de la API proporcionada por FastAPI.
+   
 3. `localhost:3000`
+   
    En esta otra ubicación vamos a tener la interfaz con la que el usuario puede interacturar con nuestra base de datos.
