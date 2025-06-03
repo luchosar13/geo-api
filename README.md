@@ -21,10 +21,10 @@ El único requisito para este proyecto es tener Docker Engine y Docker Compose e
 
 ### Visualización
 
-1. `localhost:8000/docs`
+- `localhost:8000/docs`
    
    En esta ubicación vamos a encontrar la documentación de la API proporcionada por FastAPI.
    
-3. `localhost:3000`
+- `localhost:3000`
    
    En esta otra ubicación vamos a tener la interfaz con la que el usuario puede interacturar con nuestra API y base de datos.
